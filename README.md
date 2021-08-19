@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexalferow
-- 👀 I’m interested in UI / QA
+- 👀 I’m interested in QA
 - 🌱 I’m currently learning Cypress
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TG @alexalferow
